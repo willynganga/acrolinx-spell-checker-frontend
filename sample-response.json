@@ -1,0 +1,285 @@
+{
+    "statusCode": 200,
+    "message": "Successful spell checking",
+    "data": {
+        "id": "1dbff897-01c1-41bb-be84-d6c914c65758",
+        "info": {
+            "words": 73,
+            "time": "Sun Jan 22 18:20:52 EAT 2023"
+        },
+        "issues": [
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "wa",
+                    "beginOffset": 38,
+                    "endOffset": 40,
+                    "replacement": [
+                        "WA",
+                        "a",
+                        "was",
+                        "we",
+                        "way",
+                        "war",
+                        "MA",
+                        "wax",
+                        "UA",
+                        "WPA",
+                        "WTA",
+                        "ma",
+                        "pa",
+                        "ta",
+                        "CWA",
+                        "TWA",
+                        "WAC",
+                        "WAP",
+                        "WC",
+                        "WMA",
+                        "WD",
+                        "wan",
+                        "RWA",
+                        "WO",
+                        "wag",
+                        "GHA",
+                        "ugh",
+                        "da",
+                        "A",
+                        "AA",
+                        "AWA",
+                        "BA",
+                        "BWA",
+                        "Ba",
+                        "CA",
+                        "Ca",
+                        "DA",
+                        "Ewa",
+                        "FA",
+                        "FWA",
+                        "GA",
+                        "Ga",
+                        "HA",
+                        "IA",
+                        "JA",
+                        "LA",
+                        "La",
+                        "MWA",
+                        "Na",
+                        "Oa",
+                        "PA",
+                        "QA",
+                        "Qa",
+                        "Ra",
+                        "SA",
+                        "Sa",
+                        "TA",
+                        "Ta",
+                        "UWA",
+                        "VA",
+                        "W",
+                        "WAB",
+                        "WAD",
+                        "WAG",
+                        "WAM",
+                        "WAV",
+                        "WB",
+                        "WBA",
+                        "WF",
+                        "WGA",
+                        "WHA",
+                        "WI",
+                        "WIA",
+                        "WP",
+                        "WSA",
+                        "WU",
+                        "WV",
+                        "WWA",
+                        "WY",
+                        "WYA",
+                        "WZ",
+                        "Wai",
+                        "Way",
+                        "Wea",
+                        "Wu",
+                        "ZA",
+                        "ba",
+                        "ca",
+                        "ea",
+                        "fa",
+                        "ha",
+                        "ka",
+                        "la",
+                        "mA",
+                        "w",
+                        "wad",
+                        "wav",
+                        "wt",
+                        "ya",
+                        "à",
+                        "UGA",
+                        "UGTA",
+                        "Ucha",
+                        "Usha",
+                        "OWA",
+                        "PWA",
+                        "WFA",
+                        "WH",
+                        "WS"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "poblem",
+                    "beginOffset": 43,
+                    "endOffset": 49,
+                    "replacement": [
+                        "problem"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "driing",
+                    "beginOffset": 60,
+                    "endOffset": 66,
+                    "replacement": [
+                        "driving",
+                        "drying"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "couldnt",
+                    "beginOffset": 71,
+                    "endOffset": 78,
+                    "replacement": [
+                        "couldn't"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "frnt",
+                    "beginOffset": 93,
+                    "endOffset": 97,
+                    "replacement": [
+                        "front",
+                        "font",
+                        "fret",
+                        "frit",
+                        "FNT",
+                        "FRT",
+                        "Frant",
+                        "Front",
+                        "RNT"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "road",
+                    "beginOffset": 137,
+                    "endOffset": 141,
+                    "replacement": [
+                        "rode"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "narow",
+                    "beginOffset": 146,
+                    "endOffset": 151,
+                    "replacement": [
+                        "narrow",
+                        "Harow",
+                        "na row"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "aother",
+                    "beginOffset": 228,
+                    "endOffset": 234,
+                    "replacement": [
+                        "other",
+                        "another",
+                        "mother",
+                        "bother",
+                        "aether",
+                        "anther",
+                        "pother",
+                        "Rother",
+                        "a other"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "wud end",
+                    "beginOffset": 239,
+                    "endOffset": 246,
+                    "replacement": [
+                        "would end"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "rearending",
+                    "beginOffset": 250,
+                    "endOffset": 260,
+                    "replacement": [
+                        "rear ending"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "contiued",
+                    "beginOffset": 272,
+                    "endOffset": 280,
+                    "replacement": [
+                        "continued"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "forwad",
+                    "beginOffset": 281,
+                    "endOffset": 287,
+                    "replacement": [
+                        "forward",
+                        "for wad"
+                    ]
+                }
+            },
+            {
+                "type": "spelling",
+                "match": {
+                    "surface": "visibilty",
+                    "beginOffset": 308,
+                    "endOffset": 317,
+                    "replacement": [
+                        "visibility"
+                    ]
+                }
+            }
+        ]
+    },
+    "timestamp": "2023-01-22T15:20:54.638+00:00"
+}
