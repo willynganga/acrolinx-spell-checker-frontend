@@ -21,7 +21,7 @@ const SignIn = () => {
       
           var config = {
             method: "post",
-            url: "http://localhost:8080/api/v1/auth/login",
+            url: "https://acrolinx-spell-checker-production.up.railway.app/api/v1/auth/login",
             headers: {
               "Content-Type": "application/json",
             },

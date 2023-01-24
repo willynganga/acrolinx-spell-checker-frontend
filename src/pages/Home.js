@@ -14,7 +14,7 @@ function Home() {
     console.log("Text updated: " + text);
     var config = {
       method: "post",
-      url: "http://localhost:8080/api/v1/spell/check",
+      url: "https://acrolinx-spell-checker-production.up.railway.app/api/v1/spell/check",
       headers: {
         "Content-Type": "text/plain",
         "Authorization": `Bearer ${localStorage.getItem("token")}`
