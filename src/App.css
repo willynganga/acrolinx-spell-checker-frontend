@@ -54,6 +54,56 @@
   min-height: 100vh;
 }
 
+.sign-in-div {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  text-align: center;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.sign-in-div h1 {
+  font-size: 2em;
+  font-family: "Roboto", sans-serif;
+}
+
+.sign-in-div input[type="text"] {
+  height: 1.4em;
+  width: 20em;
+  border: 1px solid rgb(104, 197, 213);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.2em;
+  font-family: "Roboto", sans-serif;
+}
+
+.sign-in-div input[type="password"] {
+  height: 1.4em;
+  width: 20em;
+  border: 1px solid rgb(104, 197, 213);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.2em;
+  font-family: "Roboto", sans-serif;
+  margin-top: .5em;
+}
+
+.sign-in-div button {
+  background-color: rgb(104, 197, 213);
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.2em;
+  font-family: "Roboto", sans-serif;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 8em;
+}
+
 
 
 
